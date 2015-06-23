@@ -101,7 +101,7 @@ header {
   float:left;
   position:absolute;
   left:50px;
-  top:75px;
+  top:50px;
 }
 
 header ul {
@@ -166,7 +166,7 @@ section {
   width:500px;
   float:right;
   position:absolute;
-  top:75px;
+  top:50px;
   left:500px;
   padding-bottom:50px;
 }
