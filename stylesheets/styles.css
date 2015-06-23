@@ -101,7 +101,7 @@ header {
   float:left;
   position:absolute;
   left:50px;
-  top:100px;
+  top:75px;
 }
 
 header ul {
@@ -165,7 +165,7 @@ header ul a strong {
 section {
   width:500px;
   float:right;
-  padding-left:100px;
+  padding-left:300px;
   padding-bottom:50px;
 }
 
